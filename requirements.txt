@@ -5,3 +5,4 @@ psutil
 pandas
 matplotlib
 pytest
+plotly
