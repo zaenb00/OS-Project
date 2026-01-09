@@ -34,7 +34,7 @@ from src.agents.dqn import DQNAgent
 # Streamlit config
 # -------------------------------------------------
 st.set_page_config(page_title="AI CPU Scheduler", layout="wide")
-st.title("🧠 AI-Powered CPU Scheduling Simulator")
+st.title("🧠 AI-Powered Multi-Core CPU Scheduler")
 
 # -------------------------------------------------
 # Session state
